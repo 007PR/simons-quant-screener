@@ -1,0 +1,368 @@
+{
+  "initial_capital": 1000000,
+  "holdings": {
+    "KOTAKBANK": {
+      "quantity": 38,
+      "buy_price": 1042.9063213420452,
+      "buy_date": "2026-01-11",
+      "invested_amount": 39630.440210997716
+    },
+    "STOCK33": {
+      "quantity": 6,
+      "buy_price": 6530.564185887472,
+      "buy_date": "2026-01-11",
+      "invested_amount": 39183.38511532483
+    },
+    "DMART": {
+      "quantity": 13,
+      "buy_price": 2866.633179649909,
+      "buy_date": "2026-01-11",
+      "invested_amount": 37266.231335448814
+    },
+    "TATACHEM": {
+      "quantity": 4,
+      "buy_price": 8603.863934238327,
+      "buy_date": "2026-01-11",
+      "invested_amount": 34415.45573695331
+    },
+    "STOCK5": {
+      "quantity": 12,
+      "buy_price": 3100.660660192873,
+      "buy_date": "2026-01-11",
+      "invested_amount": 37207.92792231448
+    },
+    "STOCK1": {
+      "quantity": 7,
+      "buy_price": 5255.297150019825,
+      "buy_date": "2026-01-11",
+      "invested_amount": 36787.08005013877
+    },
+    "STOCK12": {
+      "quantity": 4,
+      "buy_price": 9132.295461760768,
+      "buy_date": "2026-01-11",
+      "invested_amount": 36529.18184704307
+    },
+    "PAGEIND": {
+      "quantity": 23,
+      "buy_price": 1681.4803740047485,
+      "buy_date": "2026-01-11",
+      "invested_amount": 38674.048602109215
+    },
+    "NTPC": {
+      "quantity": 8,
+      "buy_price": 4837.653384086973,
+      "buy_date": "2026-01-11",
+      "invested_amount": 38701.22707269579
+    },
+    "COALINDIA": {
+      "quantity": 22,
+      "buy_price": 1772.1826197216144,
+      "buy_date": "2026-01-11",
+      "invested_amount": 38988.01763387552
+    },
+    "LICI": {
+      "quantity": 5,
+      "buy_price": 6856.806208141185,
+      "buy_date": "2026-01-11",
+      "invested_amount": 34284.03104070593
+    },
+    "GRASIM": {
+      "quantity": 4,
+      "buy_price": 9701.06494746445,
+      "buy_date": "2026-01-11",
+      "invested_amount": 38804.2597898578
+    },
+    "MARICO": {
+      "quantity": 27,
+      "buy_price": 1462.1045499771026,
+      "buy_date": "2026-01-11",
+      "invested_amount": 39476.82284938177
+    },
+    "TCS": {
+      "quantity": 5,
+      "buy_price": 7956.332191518207,
+      "buy_date": "2026-01-11",
+      "invested_amount": 39781.66095759103
+    },
+    "PFC": {
+      "quantity": 24,
+      "buy_price": 1634.325092165446,
+      "buy_date": "2026-01-11",
+      "invested_amount": 39223.8022119707
+    },
+    "STOCK42": {
+      "quantity": 6,
+      "buy_price": 6006.214361541707,
+      "buy_date": "2026-01-11",
+      "invested_amount": 36037.28616925024
+    },
+    "ZOMATO": {
+      "quantity": 15,
+      "buy_price": 2600.002132396951,
+      "buy_date": "2026-01-11",
+      "invested_amount": 39000.031985954265
+    },
+    "TORNTPHARM": {
+      "quantity": 15,
+      "buy_price": 2591.795090461379,
+      "buy_date": "2026-01-11",
+      "invested_amount": 38876.92635692068
+    },
+    "BAJAJ-AUTO": {
+      "quantity": 64,
+      "buy_price": 623.7284113982711,
+      "buy_date": "2026-01-11",
+      "invested_amount": 39918.61832948935
+    },
+    "STOCK4": {
+      "quantity": 9,
+      "buy_price": 4194.856118221282,
+      "buy_date": "2026-01-11",
+      "invested_amount": 37753.70506399153
+    },
+    "PERSISTENT": {
+      "quantity": 15,
+      "buy_price": 2649.1116445575417,
+      "buy_date": "2026-01-11",
+      "invested_amount": 39736.67466836313
+    },
+    "STOCK34": {
+      "quantity": 58,
+      "buy_price": 685.2794080912587,
+      "buy_date": "2026-01-11",
+      "invested_amount": 39746.205669293005
+    },
+    "BAJFINANCE": {
+      "quantity": 17,
+      "buy_price": 2285.6998679899766,
+      "buy_date": "2026-01-11",
+      "invested_amount": 38856.8977558296
+    },
+    "OBEROIRLTY": {
+      "quantity": 30,
+      "buy_price": 1295.1588896163184,
+      "buy_date": "2026-01-11",
+      "invested_amount": 38854.76668848955
+    },
+    "GODREJPROP": {
+      "quantity": 11,
+      "buy_price": 3584.230531143922,
+      "buy_date": "2026-01-11",
+      "invested_amount": 39426.53584258314
+    }
+  },
+  "history": [
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 977278.3373509434,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 13
+    },
+    {
+      "date": "2026-01-10 09:17",
+      "portfolio_value": 977278.3373509434,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 13
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 981915.51742156,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 15
+    },
+    {
+      "date": "2026-01-10 09:19",
+      "portfolio_value": 981915.51742156,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 15
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 972471.9659493358,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 15
+    },
+    {
+      "date": "2026-01-10 09:29",
+      "portfolio_value": 972471.9659493358,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 15
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 971446.8023697799,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10 09:47",
+      "portfolio_value": 971446.8023697799,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 968251.2193688209,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10 13:05",
+      "portfolio_value": 968251.2193688209,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 969282.7219930898,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10 13:11",
+      "portfolio_value": 969282.7219930898,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 959051.5656811476,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10 13:17",
+      "portfolio_value": 959051.5656811476,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 968986.0370965188,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10 13:21",
+      "portfolio_value": 968986.0370965188,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 963063.3762334167,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10 13:30",
+      "portfolio_value": 963063.3762334167,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 964213.7557108379,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10 13:31",
+      "portfolio_value": 964213.7557108379,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 972921.0269263695,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10 13:34",
+      "portfolio_value": 972921.0269263695,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 965101.6320890116,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10 13:35",
+      "portfolio_value": 965101.6320890116,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 967543.4630239041,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10 13:46",
+      "portfolio_value": 967543.4630239041,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10",
+      "portfolio_value": 956111.7896593759,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-10 13:49",
+      "portfolio_value": 956111.7896593759,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-11",
+      "portfolio_value": 957161.2209065735,
+      "absolute_return": 0,
+      "percentage_return": 0,
+      "holdings_count": 25
+    },
+    {
+      "date": "2026-01-11 05:46",
+      "portfolio_value": 957161.2209065735,
+      "absolute_return": 0.0,
+      "percentage_return": 0.0,
+      "holdings_count": 25
+    }
+  ],
+  "last_updated": "2026-01-11T05:46:18.532537"
+}
