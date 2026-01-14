@@ -1,0 +1,223 @@
+{
+  "initial_capital": 1000000,
+  "daily_returns": [
+    {
+      "date": "2025-12-15",
+      "strategy_return_pct": -0.26,
+      "market_return_pct": 0.2
+    },
+    {
+      "date": "2025-12-16",
+      "strategy_return_pct": -0.5,
+      "market_return_pct": 1.03
+    },
+    {
+      "date": "2025-12-17",
+      "strategy_return_pct": 1.44,
+      "market_return_pct": -0.2
+    },
+    {
+      "date": "2025-12-18",
+      "strategy_return_pct": 0.79,
+      "market_return_pct": 0.42
+    },
+    {
+      "date": "2025-12-19",
+      "strategy_return_pct": -0.57,
+      "market_return_pct": 0.73
+    },
+    {
+      "date": "2025-12-20",
+      "strategy_return_pct": 0.51,
+      "market_return_pct": 0.76
+    },
+    {
+      "date": "2025-12-21",
+      "strategy_return_pct": 0.48,
+      "market_return_pct": -0.8
+    },
+    {
+      "date": "2025-12-22",
+      "strategy_return_pct": -0.09,
+      "market_return_pct": -0.76
+    },
+    {
+      "date": "2025-12-23",
+      "strategy_return_pct": 1.6,
+      "market_return_pct": 0.96
+    },
+    {
+      "date": "2025-12-24",
+      "strategy_return_pct": 1.33,
+      "market_return_pct": -0.18
+    },
+    {
+      "date": "2025-12-25",
+      "strategy_return_pct": -0.84,
+      "market_return_pct": 0.96
+    },
+    {
+      "date": "2025-12-26",
+      "strategy_return_pct": 1.65,
+      "market_return_pct": -0.63
+    },
+    {
+      "date": "2025-12-27",
+      "strategy_return_pct": 0.36,
+      "market_return_pct": -0.66
+    },
+    {
+      "date": "2025-12-28",
+      "strategy_return_pct": 1.13,
+      "market_return_pct": 0.73
+    },
+    {
+      "date": "2025-12-29",
+      "strategy_return_pct": -0.64,
+      "market_return_pct": 0.15
+    },
+    {
+      "date": "2025-12-30",
+      "strategy_return_pct": 0.54,
+      "market_return_pct": -0.27
+    },
+    {
+      "date": "2025-12-31",
+      "strategy_return_pct": 1.44,
+      "market_return_pct": 0.05
+    },
+    {
+      "date": "2026-01-01",
+      "strategy_return_pct": -0.41,
+      "market_return_pct": 0.28
+    },
+    {
+      "date": "2026-01-02",
+      "strategy_return_pct": 1.04,
+      "market_return_pct": -0.4
+    },
+    {
+      "date": "2026-01-03",
+      "strategy_return_pct": -0.13,
+      "market_return_pct": 1.19
+    },
+    {
+      "date": "2026-01-04",
+      "strategy_return_pct": 0.82,
+      "market_return_pct": 0.08
+    },
+    {
+      "date": "2026-01-05",
+      "strategy_return_pct": 0.45,
+      "market_return_pct": -0.56
+    },
+    {
+      "date": "2026-01-06",
+      "strategy_return_pct": -0.37,
+      "market_return_pct": -0.12
+    },
+    {
+      "date": "2026-01-07",
+      "strategy_return_pct": 0.65,
+      "market_return_pct": -0.34
+    },
+    {
+      "date": "2026-01-08",
+      "strategy_return_pct": -0.38,
+      "market_return_pct": -0.66
+    },
+    {
+      "date": "2026-01-09",
+      "strategy_return_pct": 0.77,
+      "market_return_pct": -0.34
+    },
+    {
+      "date": "2026-01-10",
+      "strategy_return_pct": 1.54,
+      "market_return_pct": 0.92
+    },
+    {
+      "date": "2026-01-11",
+      "strategy_return_pct": -0.8,
+      "market_return_pct": -0.32
+    },
+    {
+      "date": "2026-01-12",
+      "strategy_return_pct": 0.87,
+      "market_return_pct": -0.37
+    },
+    {
+      "date": "2026-01-13",
+      "strategy_return_pct": -0.63,
+      "market_return_pct": 1.07
+    }
+  ],
+  "strategy_equity": [
+    1000000,
+    997400.0,
+    992413.0,
+    1006703.75,
+    1014656.71,
+    1008873.17,
+    1014018.42,
+    1018885.71,
+    1017968.71,
+    1034256.21,
+    1048011.82,
+    1039208.52,
+    1056355.46,
+    1060158.34,
+    1072138.13,
+    1065276.45,
+    1071028.94,
+    1086451.76,
+    1081997.31,
+    1093250.08,
+    1091828.85,
+    1100781.85,
+    1105735.37,
+    1101644.15,
+    1108804.84,
+    1104591.38,
+    1113096.73,
+    1130238.42,
+    1121196.51,
+    1130950.92,
+    1123825.93
+  ],
+  "market_equity": [
+    1000000,
+    1002000.0,
+    1012320.6,
+    1010295.96,
+    1014539.2,
+    1021945.34,
+    1029712.12,
+    1021474.42,
+    1013711.21,
+    1023442.84,
+    1021600.64,
+    1031408.01,
+    1024910.14,
+    1018145.73,
+    1025578.19,
+    1027116.56,
+    1024343.35,
+    1024855.52,
+    1027725.12,
+    1023614.22,
+    1035795.23,
+    1036623.87,
+    1030818.78,
+    1029581.8,
+    1026081.22,
+    1019309.08,
+    1015843.43,
+    1025189.19,
+    1021908.58,
+    1018127.52,
+    1029021.48
+  ],
+  "total_strategy_return_pct": 12.38,
+  "total_market_return_pct": 2.9
+}
