@@ -2,7 +2,7 @@
 
 Renaissance-style quantitative stock screener for Indian markets (NSE).
 
-**Live Dashboard:** [https://YOUR_USERNAME.github.io/stock-screener/](https://YOUR_USERNAME.github.io/stock-screener/)
+**Live Dashboard:** ([https://YOUR_USERNAME.github.io/stock-screener/](https://007pr.github.io/simons-quant-screener/)
 
 ---
 
