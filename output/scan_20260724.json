@@ -1,0 +1,202 @@
+[
+  {
+    "symbol": "HCLTECH",
+    "composite_score": 0.738,
+    "active_signals": 6,
+    "last_price": 1728,
+    "change_1d": 2.54,
+    "change_5d": 5.89
+  },
+  {
+    "symbol": "ICICIBANK",
+    "composite_score": 0.716,
+    "active_signals": 8,
+    "last_price": 1225,
+    "change_1d": -2.29,
+    "change_5d": 6.57
+  },
+  {
+    "symbol": "DMART",
+    "composite_score": 0.706,
+    "active_signals": 9,
+    "last_price": 3637,
+    "change_1d": 0.01,
+    "change_5d": 3.21
+  },
+  {
+    "symbol": "NTPC",
+    "composite_score": 0.706,
+    "active_signals": 9,
+    "last_price": 352,
+    "change_1d": 1.6,
+    "change_5d": 3.24
+  },
+  {
+    "symbol": "TCS",
+    "composite_score": 0.663,
+    "active_signals": 7,
+    "last_price": 3918,
+    "change_1d": 4.72,
+    "change_5d": 1.72
+  },
+  {
+    "symbol": "ITC",
+    "composite_score": 0.649,
+    "active_signals": 6,
+    "last_price": 421,
+    "change_1d": 2.64,
+    "change_5d": 0.18
+  },
+  {
+    "symbol": "AXISBANK",
+    "composite_score": 0.637,
+    "active_signals": 10,
+    "last_price": 1156,
+    "change_1d": -0.34,
+    "change_5d": -4.64
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "composite_score": 0.629,
+    "active_signals": 7,
+    "last_price": 2356,
+    "change_1d": -0.61,
+    "change_5d": -0.06
+  },
+  {
+    "symbol": "TITAN",
+    "composite_score": 0.619,
+    "active_signals": 6,
+    "last_price": 3234,
+    "change_1d": 0.63,
+    "change_5d": 3.69
+  },
+  {
+    "symbol": "NESTLEIND",
+    "composite_score": 0.599,
+    "active_signals": 6,
+    "last_price": 2162,
+    "change_1d": 1.67,
+    "change_5d": 1.24
+  },
+  {
+    "symbol": "WIPRO",
+    "composite_score": 0.591,
+    "active_signals": 7,
+    "last_price": 236,
+    "change_1d": 1.15,
+    "change_5d": 4.68
+  },
+  {
+    "symbol": "TATAMOTORS",
+    "composite_score": 0.584,
+    "active_signals": 6,
+    "last_price": 746,
+    "change_1d": -3.97,
+    "change_5d": 5.12
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "composite_score": 0.582,
+    "active_signals": 7,
+    "last_price": 1596,
+    "change_1d": -2.15,
+    "change_5d": 1.9
+  },
+  {
+    "symbol": "MARUTI",
+    "composite_score": 0.57,
+    "active_signals": 8,
+    "last_price": 11233,
+    "change_1d": 2.28,
+    "change_5d": -3.2
+  },
+  {
+    "symbol": "RELIANCE",
+    "composite_score": 0.568,
+    "active_signals": 6,
+    "last_price": 1247,
+    "change_1d": -3.95,
+    "change_5d": -5.9
+  },
+  {
+    "symbol": "LT",
+    "composite_score": 0.55,
+    "active_signals": 9,
+    "last_price": 3531,
+    "change_1d": -2.93,
+    "change_5d": -1.07
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "composite_score": 0.533,
+    "active_signals": 8,
+    "last_price": 11528,
+    "change_1d": 0.87,
+    "change_5d": 3.4
+  },
+  {
+    "symbol": "INFY",
+    "composite_score": 0.511,
+    "active_signals": 10,
+    "last_price": 1541,
+    "change_1d": 3.77,
+    "change_5d": 1.99
+  },
+  {
+    "symbol": "SBIN",
+    "composite_score": 0.511,
+    "active_signals": 9,
+    "last_price": 733,
+    "change_1d": 6.97,
+    "change_5d": -1.02
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "composite_score": 0.508,
+    "active_signals": 7,
+    "last_price": 1791,
+    "change_1d": 2.85,
+    "change_5d": 3.38
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "composite_score": 0.486,
+    "active_signals": 7,
+    "last_price": 6825,
+    "change_1d": -2.53,
+    "change_5d": 10.49
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "composite_score": 0.484,
+    "active_signals": 7,
+    "last_price": 1772,
+    "change_1d": 4.25,
+    "change_5d": 6.79
+  },
+  {
+    "symbol": "HDFCBANK",
+    "composite_score": 0.468,
+    "active_signals": 7,
+    "last_price": 1738,
+    "change_1d": 4.67,
+    "change_5d": -4.4
+  },
+  {
+    "symbol": "POWERGRID",
+    "composite_score": 0.465,
+    "active_signals": 10,
+    "last_price": 296,
+    "change_1d": -1.59,
+    "change_5d": 5.93
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "composite_score": 0.459,
+    "active_signals": 10,
+    "last_price": 2277,
+    "change_1d": -0.17,
+    "change_5d": -1.64
+  }
+]
