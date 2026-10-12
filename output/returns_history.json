@@ -1080,6 +1080,11 @@
       "date": "2026-10-10",
       "strategy_return_pct": 0.81,
       "market_return_pct": 0.61
+    },
+    {
+      "date": "2026-10-13",
+      "strategy_return_pct": 0.56,
+      "market_return_pct": 0.89
     }
   ],
   "strategy_equity": [
@@ -1299,7 +1304,8 @@
     1766566.8,
     1758263.94,
     1750527.58,
-    1764706.85
+    1764706.85,
+    1774589.21
   ],
   "market_equity": [
     1000000,
@@ -1518,8 +1524,9 @@
     1536617.69,
     1534159.1,
     1544744.8,
-    1554167.74
+    1554167.74,
+    1567999.83
   ],
-  "total_strategy_return_pct": 76.47,
-  "total_market_return_pct": 55.42
+  "total_strategy_return_pct": 77.46,
+  "total_market_return_pct": 56.8
 }
